@@ -1,0 +1,11 @@
+.forcastWeather {
+  width: 70%;
+  background-color: #efefef;
+  height: 85vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.date2 {
+  font-size: 15px !important;
+}
